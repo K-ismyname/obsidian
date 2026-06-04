@@ -1,0 +1,20 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# Obsidian 휴지통
+.trash/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 첨부 파일 (대용량 바이너리 제외 시 주석 해제)
+# Attachments/
+
+# 임시 파일
+*.tmp
+*.bak

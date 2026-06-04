@@ -1,0 +1,11 @@
+{
+  "showLineNumber": true,
+  "smartIndentList": false,
+  "attachmentFolderPath": "기타",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
